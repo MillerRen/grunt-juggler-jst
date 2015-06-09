@@ -1,12 +1,12 @@
 {
-  "name": "grunt-contrib-jst",
+  "name": "grunt-juggler-jst",
   "description": "Precompile Underscore templates to JST file",
-  "version": "0.7.0-pre",
+  "version": "1.0.0",
   "author": {
-    "name": "Grunt Team",
-    "url": "http://gruntjs.com/"
+    "name": "Miller Ren",
+    "url": "https://github.com/MillerRen/grunt-juggler-jst"
   },
-  "repository": "gruntjs/grunt-contrib-jst",
+  "repository": "https://github.com/MillerRen/grunt-juggler-jst.git",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
